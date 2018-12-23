@@ -2,7 +2,7 @@
 
 ORMs are a weird abstraction. They map concepts from relational databases
 (namely, records from a table, with fields corresponding to columns) to
-*objects* in the target programming language. They make is easy for programmers
+*objects* in the target programming language. They make it easy for programmers
 to shoot themselves in the foot by inadvertently triggering bad queries, or too
 many queries. Meanwhile, objects are not the point of software anyway. They're
 a tool for programmers to ultimately deliver some value to an end user.
